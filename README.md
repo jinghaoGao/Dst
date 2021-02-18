@@ -147,7 +147,6 @@ set(gca,'Xtick',(-450:50:0),'Ytick',(-450:50:0));
 axis square;
 box on;
 set(gca,'FontSize',12,'XAxisLocation','YAxisLocation');
-## fresize(250,250);
 hold off;
 ##SVM 训练的预测值与观测值的对比图
 figure(4);
@@ -163,7 +162,6 @@ set(gca,'Xtick',(-450:50:0),'Ytick',(-450:50:0));
 axis square;
 box on;
 set(gca,'FontSize',12,'XAxisLocation','bottom','YAxisLocation');
-## fresize(250,250);
 hold off;
 
 ##英文的预测图
@@ -182,7 +180,6 @@ set(gca,'Xtick',(-450:50:0),'Ytick',(-450:50:0));
 axis square;
 box on;
 set(gca,'FontSize',12,'XAxisLocation','YAxisLocation');
-## fresize(250,250);
 hold off;
 
 
@@ -255,5 +252,4 @@ set(gca,'Xtick',(-450:50:0),'Ytick',(-450:50:0));
 axis square;
 box on;
 set(gca,'FontSize',12,'XAxisLocation','YAxisLocation');
-## fresize(250,250);
 hold off;
