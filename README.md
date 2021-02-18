@@ -1,6 +1,6 @@
 # Dst
 SVM and BPNN main code
-%% I. 清空环境变量
+# I. 清空环境变量
 clear all
 clc
 %% II. 导入数据
